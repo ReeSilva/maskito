@@ -9,7 +9,7 @@
   <meta property="og:title" content="Seja o Baixada!">
   <meta property="og:site_name" content="Máscara de Baixada">
   <meta property="og:description" content="Não vamos deixar nosso amigo favorito sozinho no reencontro. Vamos todos de Baixada \o">
-  <meta property="og:image" content="<?php echo base_url(); ?>foundation/img/bg.png">
+  <meta property="og:image" content="<?php echo base_url(); ?>foundation/img/bg.jpg">
   <meta property="og:image:type" content="image/jpeg">
   <meta property="og:image:width" content="400">
   <meta property="og:image:height" content="400">
