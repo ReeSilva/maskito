@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://mask.local/';
+$config['base_url']	= 'http://mascara.reesilva.co/';
 
 /*
 |--------------------------------------------------------------------------
